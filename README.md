@@ -6,7 +6,7 @@ I learned Swift and CoreData with this project, so there may be some bad code. :
 ##Build
 IsaacItems uses [CocoaPods](https://cocoapods.org)
 ```bash
-git checkout git@github.com:philphilphil/isaacitems-ios.git
+git clone https://github.com/philphilphil/isaacitems-ios.git
 cd isaacitems-ios
 pod install
 ```
