@@ -8,7 +8,12 @@ iOS-App to learn about the effects of items in the game "Binding of Isaac"
 ![Screenshot 1](http://thinkcoding.org/isaacitems/isaacitems-3.jpg)
 
 I learned Swift and CoreData with this project, so there may be some bad code. :)
-
+##Features
+Look up the effect of every Item, Trinket, Card and Rune in the game.
+Search by name or by a property of the Item. To find "1UP" 
+you can search for "green" or "mushroom".
+You can create a "Tracker" for a ingame run and add items you collected
+and archive the run. All in a beautiful native iOS App. 
 ##Build
 IsaacItems uses [CocoaPods](https://cocoapods.org)
 ```bash
