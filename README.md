@@ -42,7 +42,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ###License of Isaac-Data (items.csv)
-Most of the Data in Items.csv is taken from http://bindingofisaacrebirth.gamepedia.com/ and licensed under [NC-BY-SA](http://creativecommons.org/licenses/by-nc-sa/3.0/).
+Most of the Data in Items.csv is taken from http://bindingofisaacrebirth.gamepedia.com/ and licensed under [BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/3.0/).
 
 ###License of Images 
 The Images out of the Game "Binding of Isaac" are copyrigted by [Edmund McMillen and Florian Himsl](http://edmundm.com).
