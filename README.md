@@ -41,7 +41,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-###License of Isaac-Data (items.csv)
+###License of Item-Data (items.csv)
 Most of the Data in Items.csv is taken from http://bindingofisaacrebirth.gamepedia.com/ and licensed under [BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/3.0/).
 
 ###License of Images 
