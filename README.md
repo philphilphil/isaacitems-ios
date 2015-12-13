@@ -3,9 +3,9 @@
 
 iOS-App to learn about the effects of items in the game "Binding of Isaac"
 
-![Screenshot 1](http://thinkcoding.org/isaacitems/isaacitems-1.jpg)
-![Screenshot 1](http://thinkcoding.org/isaacitems/isaacitems-2.jpg)
-![Screenshot 1](http://thinkcoding.org/isaacitems/isaacitems-3.jpg)
+![Screenshot 1](https://thinkcoding.org/isaacitems/screenshot-1.jpg)
+![Screenshot 1](https://thinkcoding.org/isaacitems/screenshot-2.jpg)
+![Screenshot 1](https://thinkcoding.org/isaacitems/screenshot-3.jpg)
 
 I learned Swift and CoreData with this project, so there may be some bad code. :)
 ##Features
