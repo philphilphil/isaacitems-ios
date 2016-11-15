@@ -1,6 +1,4 @@
 # isaacitems-ios
-[![Available in Apple App Store](https://devimages.apple.com.edgekey.net/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg)](https://t.co/Z9oUAobDuy)
-
 iOS-App to learn about the effects of items in the game "Binding of Isaac"
 
 ![Screenshot 1](https://thinkcoding.org/isaacitems/screenshot-1.jpg)
