@@ -1,9 +1,9 @@
 # isaacitems-ios
 iOS-App to learn about the effects of items in the game "Binding of Isaac"
 
-![Screenshot 1](https://thinkcoding.org/isaacitems/screenshot-1.jpg)
-![Screenshot 1](https://thinkcoding.org/isaacitems/screenshot-2.jpg)
-![Screenshot 1](https://thinkcoding.org/isaacitems/screenshot-3.jpg)
+![Screenshot 1](https://www.phib.io/wp-content/uploads/2017/02/1.jpeg)
+![Screenshot 2](https://www.phib.io/wp-content/uploads/2017/02/2.jpeg)
+![Screenshot 4](https://www.phib.io/wp-content/uploads/2017/02/3.jpeg)
 
 I learned Swift and CoreData with this project, so there may be some bad code. :)
 ##Features
